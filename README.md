@@ -13,3 +13,7 @@
 ## Latent Variable Models
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PetrovAlexey/GenerativeModels/blob/main/latent_variable_models.ipynb)
+
+## GAN
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PetrovAlexey/GenerativeModels/blob/main/module3_gans.ipynb)
